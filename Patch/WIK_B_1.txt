@@ -1,0 +1,25 @@
+[sha:09a7d8994854a6fb17aeb0394a89f9780796c9c6]{
+-- Page 76, Offset 21402.
+-- At the very least, I should greet the mansion's owner and the guests.
+No mínimo, eu deveria cumprimentar a dona da mansão e os convidados.
+}
+[sha:d674b49dd7dfc75770777efec728c5264fc009b2]{
+-- Page 76, Offset 21403.
+-- I decided to head straight to the drawing room.
+Eu decidi ir direto para a sala de estar.
+}
+[sha:c46aadb9f4a465146028af32e608220755f2b5fe]{
+-- Page 76, Offset 21404.
+-- "Come on. Pretty much everyone's here already."
+"Vamo lá. Praticamente todo mundo já tá aqui.
+}
+[sha:2ca8135f291bf4815a32dbfa0bc95b82190fe4b9]{
+-- Page 76, Offset 21405.
+-- The corridor of the east wing's first floor was dimly lit.
+O corredor do primeiro piso da asa leste estava mal iluminado.
+}
+[sha:f9cd3eb87a5f84f9bd94293614cf4865c5d275e4]{
+-- Page 76, Offset 21406.
+-- I could hear the sound of friendly chatter from beyond the door ahead.
+Eu podia ouvir o som de conversa amigável do outro lado da porta na frente.
+}
