@@ -1,0 +1,10 @@
+[sha:f72224a94ffa697563bebd30c84a29093ac0f7ad]{
+-- Page 0, Offset 22767.
+-- I think it's too dangerous to hole up in our rooms.
+Eu acho que é muito perigoso nos escondermos em nossos quartos.
+}
+[sha:03c47b2ac3641265454e09d5a0924e367d5f9169]{
+-- Page 0, Offset 22768.
+-- The reason being...
+A razão sendo...
+}
