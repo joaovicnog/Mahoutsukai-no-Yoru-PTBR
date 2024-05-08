@@ -1,0 +1,5 @@
+[sha:22df77985583f42285f1588f5ea9166e738b582e]{
+-- Page 0, Offset 21985.
+-- I feel like something terrible is about to happen.
+Sinto que algo terrível está prestes a acontecer.
+}
